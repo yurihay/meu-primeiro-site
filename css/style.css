@@ -15,20 +15,18 @@
        justify-content: center;
        align-items: center;
         }
-                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                    .conteudo {
-                                                                                                                                                                                                                                        width: 1700px;
-                                                                                                                                                                                                                                        height: 760px;
-                                                                                                                                                                                                                                        display: flex;
-                                                                                                                                                                                                                                        flex-direction: column;
-                                                                                                                                                                                                                                        justify-content: space-between;
-                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                    nav {
-                                                                                                                                                                                                                                        height: 90px;
-                                                                                                                                                                                                                                        width: 100%;
-                                                                                                                                                                                                                                        display: flex;
-                                                                                                                                                                                                                                        justify-content: space-between;
+         .conteudo {
+         width: 1700px;
+         height: 760px;
+         display: flex;
+         flex-direction: column;
+         justify-content: space-between;
+          }
+          nav {
+          height: 90px;
+          width: 100%;
+          display: flex;
+          justify-content: space-between;
                                                                                                                                                                                                                                         color: #ffffff;
                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                     
