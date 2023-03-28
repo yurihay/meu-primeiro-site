@@ -108,30 +108,30 @@
            color: white;
            margin-left: 35px;
            margin-bottom: 20px;
-                                                                                                                                                                                                                                        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-                                                                                                                                                                                                                                        font-size: 15px;
-                                                                                                                                                                                                                                    }
+           font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+           font-size: 15px;
+           }
                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                    main p.mobile {
-                                                                                                                                                                                                                                        display: none;
-                                                                                                                                                                                                                                    }
+           main p.mobile {
+           display: none;
+            }
                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                    button:hover {
-                                                                                                                                                                                                                                        transition: 0, 5s;
-                                                                                                                                                                                                                                        color: white;
-                                                                                                                                                                                                                                    }
+          button:hover {
+          transition: 0, 5s;
+          color: white;
+          }
                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                    button {
-                                                                                                                                                                                                                                        color: black;
-                                                                                                                                                                                                                                        background-color: crimson;
-                                                                                                                                                                                                                                        font-size: 20px;
-                                                                                                                                                                                                                                        cursor: pointer;
-                                                                                                                                                                                                                                        padding: 10px;
-                                                                                                                                                                                                                                        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-                                                                                                                                                                                                                                        border-radius: 13px;
-                                                                                                                                                                                                                                        width: fit-content;
-                                                                                                                                                                                                                                        margin-left: 45px;
-                                                                                                                                                                                                                                    }
+          button {
+          color: black;
+          background-color: crimson;
+          font-size: 20px;
+          cursor: pointer;
+          padding: 10px;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+          border-radius: 13px;
+          width: fit-content;
+           margin-left: 45px;
+             }
                                                                                                                                                                                                                                     
                                                                                                                                                                                                                                     footer {
                                                                                                                                                                                                                                         width: 100%;
