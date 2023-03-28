@@ -27,28 +27,26 @@
           width: 100%;
           display: flex;
           justify-content: space-between;
-                                                                                                                                                                                                                                        color: #ffffff;
-                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                    .navbar ul {
-                                                                                                                                                                                                                                        display: flex;
-                                                                                                                                                                                                                                        justify-content: flex-end;
-                                                                                                                                                                                                                                        width: 100%;
-                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                    .navbar>ul>li {
-                                                                                                                                                                                                                                        list-style: none;
-                                                                                                                                                                                                                                        margin: 3px 45px;
-                                                                                                                                                                                                                                        line-height: 90px;
-                                                                                                                                                                                                                                        font-family: Arial, Helvetica, sans-serif;
-                                                                                                                                                                                                                                        font-size: 14px;
-                                                                                                                                                                                                                                        font-weight: bold;
-                                                                                                                                                                                                                                        text-transform: uppercase;
-                                                                                                                                                                                                                                        color: white;
-                                                                                                                                                                                                                                        justify-content: flex-end;
-                                                                                                                                                                                                                                        cursor: pointer;
-                                                                                                                                                                                                                                        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-                                                                                                                                                                                                                                    }
+          color: #ffffff;
+           }
+         .navbar ul {
+          display: flex;
+          justify-content: flex-end;
+          width: 100%;
+          }
+         .navbar>ul>li {
+          list-style: none;
+          margin: 3px 45px;
+          line-height: 90px;
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 14px;
+          font-weight: bold;
+          text-transform: uppercase;
+          color: white;
+          justify-content: flex-end;
+          cursor: pointer;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+           }
                                                                                                                                                                                                                                     
                                                                                                                                                                                                                                     .navbar>ul>li:hover {
                                                                                                                                                                                                                                         color: rgb(190, 10, 10);
